@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /nothing-to-disallow/
+
+Sitemap: https://onlinefreetools.pages.dev/sitemap.xml
+
+# Crawl-delay can be added if needed (for heavy traffic sites)
+# Crawl-delay: 10
+
+# Host directive (optional, only needed if you have multiple domains)
+# Host: freevideocompressor.pages.dev
